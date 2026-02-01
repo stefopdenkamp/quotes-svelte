@@ -72,8 +72,9 @@
 				data.length > 0
 					? data
 					: [
-							{ quote: 'He who builds an api has fun', quotee: '' },
+							{ id: 1, quote: 'He who builds an api has fun', quotee: '' },
 							{
+								id: 2,
 								quote: 'A quote for testing purposes convays little meaning',
 								quotee: 'Not Albert Einstein'
 							}
